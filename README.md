@@ -1,1 +1,1 @@
-# My College-Predictor
+# My College Predictor
